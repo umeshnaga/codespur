@@ -1,0 +1,14 @@
+{
+    "name": "codespur/domain",
+    "description": "Manage cpanel and whm api",
+    "license": "Codespur Software Pvt. Ltd.",
+    "authors": [
+        {
+            "name": "Umesh Naga",
+            "email": "un@unv7.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
+
